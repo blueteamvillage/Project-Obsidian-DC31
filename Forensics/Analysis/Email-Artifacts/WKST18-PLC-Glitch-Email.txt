@@ -1,0 +1,41 @@
+From - Sat Apr 29 17:47:26 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: bass.reaves@magnumtempus.financial
+Received: from [172.16.50.144] (Unknown [172.16.50.144])
+	by HMAIL with ESMTPA
+	; Sat, 29 Apr 2023 17:47:25 +0000
+Message-ID: <b1cca675-b4a0-9e73-cacf-83739575205b@magnumtempus.financial>
+Date: Sat, 29 Apr 2023 17:47:24 +0000
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.5.0
+Subject: Re: On Board Tooling
+Content-Language: en-US
+To: Kate Harony <kate.harony@magnumtempus.financial>
+References: <48fd6dbf-fa0e-a05f-e23b-86b2aa2ea22d@magnumtempus.financial>
+From: Bass Reaves <bass.reaves@magnumtempus.financial>
+In-Reply-To: <48fd6dbf-fa0e-a05f-e23b-86b2aa2ea22d@magnumtempus.financial>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hi Kate,
+
+     Yeah, go ahead I have no issues with it. Let me know if you find 
+anything or go ahead and make a ticket to document it.
+
+Sincerely,
+
+Bass Reaves
+
+On 4/29/2023 5:30 PM, Kate Harony wrote:
+> Hey Bass,
+>
+>    I am noticing that there are some things going a little odd with 
+> the PLC and remoteIO communications. I'm going to be poking around to 
+> figure out what is going on. Any issues with that?
+>
+> Respectfully,
+>
+> Kate Harony
+>
