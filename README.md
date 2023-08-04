@@ -5,7 +5,7 @@ Please visit the link below to start the CTF:
 
 https://ctf.blueteamvillage.org/
 
-The CTF will run from 10:00 - 18:00 PST on Friday Aug 11 through Sunday Aug 13.
+The CTF will run from Friday Aug 11 @ 10:00am PST through Sunday Aug 13 @ 12:00am PST 
 
 CTF teams can have a maximum of 4 players.
 
