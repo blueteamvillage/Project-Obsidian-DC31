@@ -15,7 +15,7 @@ Welcome to the Detection Engineering station of the Blue Team Village @ DEFCON 3
 The what, how and process of detection engineering.
 
 #### Slides
-- [Detection Engineering 101: Breaking the rule](<Presentations\BTV_DC31_Detection_Engineering_101.pptx>)
+- [Detection Engineering 101: Breaking the rule](<Presentations\BTV-DE-Breaking-the-Rule-Oldmonk.pptx>)
 
 #### Video
 to be updated once available on YouTube.
@@ -26,7 +26,7 @@ to be updated once available on YouTube.
 A review of the detection engineering cycle and a walkthrough taking a threat hunt report and building a SIEM alert.
 
 #### Slides
-- [Detection Engineering: Building a Detection Alert From a Threat Hunt](<Presentations\BTV_DC31_Detection_Engineering_102.pptx>)
+- [Detection Engineering: Building a Detection Alert From a Threat Hunt](<Presentations\BTV - Project Obsidian - Detection Engineering Walkthrough - Section1 - Building SIEM Alert - DC31.pptx>)
 
 #### Video
 to be updated once available on YouTube.

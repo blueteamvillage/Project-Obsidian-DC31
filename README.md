@@ -1,7 +1,9 @@
 [BlueTeamVillage](https://blueteamvillage.org/) | [DEFCON 31](https://defcon.org/html/defcon-31/dc-31-index.html) | [Project Obsidian CTF](https://blueteamvillage.org/events/def-con-31/btv-ctf/)
 
-# Blue Team Village @ DEFCON 31
-Welcome to the Blue Team Village @ DEFCON 31!
+# Blue Team Village - Project Obsidian @ DEFCON 31
+Welcome to the Blue Team Village - Project Obsidian @ DEFCON 31!
+
+![Project Obsidian Logo](.img\Obsidian_Black_-_Blue_Trim_-_Transparent.png)
 
 ## Table Of Contents
 - [About](#about)

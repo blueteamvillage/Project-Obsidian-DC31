@@ -82,6 +82,6 @@ to be updated once available on YouTube.
 The recent Log4j vulnerability has been making headlines and causing significant harm to organizations that rely on Apache Log4j for logging. In this talk, we'll go beyond the headlines and provide a deep dive into threat hunting techniques and their application in detecting vulnerabilities like Log4j. We'll start with the basics of threat hunting and how it can help you stay ahead of emerging threats. From there, we'll explore the technical details of the Log4j vulnerability, including its nature, impact, and how it can be exploited. You'll learn how to analyze and respond to security threats through real-world examples of threat hunting in action. We'll provide hands-on labs that give you the experience you need to implement these techniques in your own organization. Whether you're a security analyst, engineer, or manager, this talk will provide valuable insights into threat hunting and enable you to stay ahead of emerging threats. Join us on this technical journey into the unknown with "Log4j: The Silent Menace Among Us.
 
 #### Slides
-
+- [Cyber Threat Hunting: Log4j - The Silent Menace Among Us](<Presentations\BTV-Project_Obsidian-_Log4j-_The_Silent_Menace_Among_Us.pptx>)
 #### Video
 to be updated once available on YouTube.
