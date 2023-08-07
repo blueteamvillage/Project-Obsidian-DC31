@@ -17,7 +17,7 @@ Welcome to the Forensics section of the Blue Team Village @ DEFCON 31!
 General Introduction to Forensics - Part I
 
 #### Slides
-- [Forensics 101: Part 1](<Presentations\DC31_Forensics_101_Part1.pptx>)
+- [Forensics 101: Part 1](<Presentations/DC31_Forensics_101_Part1.pptx>)
 
 #### Video
 to be updated once available on YouTube.
@@ -27,7 +27,7 @@ to be updated once available on YouTube.
 General Introduction to Forensics - Part II
 
 #### Slides
-- [Forensics 101: Part 2](<Presentations\DC31_Forensics_101_Part2.pptx>)
+- [Forensics 101: Part 2](<Presentations/DC31_Forensics_101_Part2.pptx>)
 
 #### Video
 to be updated once available on YouTube.
@@ -38,7 +38,7 @@ to be updated once available on YouTube.
 Forensics walkthrough of the Project Obsidian Insider Threat - Covering both Technical and Non-Technical considerations
 
 #### Slides
-- [Forensics Analysis: Insider Threat](<Presentations\BTV - Project Obsidian - Insider Threat - DC31.ppt>)
+- [Forensics Analysis: Insider Threat](<Presentations/BTV - Project Obsidian - Insider Threat - DC31.ppt>)
 
 #### Video
 to be updated once available on YouTube.
@@ -48,7 +48,7 @@ to be updated once available on YouTube.
 Forensics walkthrough of the Project Obsidian external attacker (Kill Chain) - Covering Telemetry and artifacts collected and parsed to determine what happened
 
 #### Slides
-- [Forensics Analysis: Kill Chain - Pivoting from IT to OT](<Presentations\BTV_DC31_Forensics_KC2_Walkthrough.pptx>)
+- [Forensics Analysis: Kill Chain - Pivoting from IT to OT](<Presentations/BTV_DC31_Forensics_KC2_Walkthrough.pptx>)
 
 #### Video
 to be updated once available on YouTube.

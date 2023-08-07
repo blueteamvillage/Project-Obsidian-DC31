@@ -41,7 +41,7 @@ to be updated once available on YouTube.
 How to establish some baselines with the logs that you have to support incident response.
 
 #### Slides
-- [Incident Response Analysis: Know yourself, Know your logs](<Presentations\obsidian-btv-know_yourself_logs\obsidian-btv-know_yourself_logs.slides.html>)
+- [Incident Response Analysis: Know yourself, Know your logs](<Presentations/obsidian-btv-know_yourself_logs/obsidian-btv-know_yourself_logs.slides.html>)
 
 #### Video
 to be updated once available on YouTube.
@@ -51,7 +51,7 @@ to be updated once available on YouTube.
 Offline analysis using code. How to setup your questions and make your analysis process repeatable.
 
 #### Slides
-- [Incident Response Analysis: MSTICPY and Velociraptor offline collection analysis](<Presentations\obsidian-btv-velociraptor-offline-collector-notebook\obsidian-btv-msticpy_velociraptor_offline_collection_analysis.slides.html>)
+- [Incident Response Analysis: MSTICPY and Velociraptor offline collection analysis](<Presentations/obsidian-btv-velociraptor-offline-collector-notebook/obsidian-btv-msticpy_velociraptor_offline_collection_analysis.slides.html>)
 
 #### Video
 to be updated once available on YouTube.

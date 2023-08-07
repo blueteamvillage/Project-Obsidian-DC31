@@ -3,7 +3,7 @@
 # Blue Team Village - Project Obsidian @ DEFCON 31
 Welcome to the Blue Team Village - Project Obsidian @ DEFCON 31!
 
-![Project Obsidian Logo](.img\Obsidian_Black_-_Blue_Trim_-_Transparent.png)
+![Project Obsidian Logo](.img/Obsidian_Black_-_Blue_Trim_-_Transparent.png)
 
 ## Table Of Contents
 - [About](#about)

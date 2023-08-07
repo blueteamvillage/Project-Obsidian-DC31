@@ -21,7 +21,7 @@ Welcome to the Cyber Threat Hunting section of the Blue Team Village @ DEFCON 31
 A brief introduction to Cyber Threat Hunting
 
 #### Slides
-- [Cyber Threat Hunting 101: Introduction to Cyber Threat Hunting](<Presentations\BTV - Project Obsidian - ThreatHunting 101 - Intro into Cyber Threat Hunting.pptx>)
+- [Cyber Threat Hunting 101: Introduction to Cyber Threat Hunting](<Presentations/BTV - Project Obsidian - ThreatHunting 101 - Intro into Cyber Threat Hunting.pptx>)
 
 #### Video
 to be updated once available on YouTube.
@@ -31,7 +31,7 @@ to be updated once available on YouTube.
 A brief introduction to Cyber Threat Hunting Methodology
 
 #### Slides
-- [Cyber Threat Hunting 101: Threat Hunting Methodology](<Presentations\BTV - Project Obsidian - ThreatHunting 101 - Threat Hunting Methodology.pptx>)
+- [Cyber Threat Hunting 101: Threat Hunting Methodology](<Presentations/BTV - Project Obsidian - ThreatHunting 101 - Threat Hunting Methodology.pptx>)
 
 #### Video
 to be updated once available on YouTube.
@@ -41,7 +41,7 @@ to be updated once available on YouTube.
 A brief introduction to Cyber Threat Hunting Techniques
 
 #### Slides
-- [Cyber Threat Hunting 101: Threat Hunting Techniques](<Presentations\BTV - Project Obsidian - ThreatHunting 101 - Threat Hunting Techniques.pptx>)
+- [Cyber Threat Hunting 101: Threat Hunting Techniques](<Presentations/BTV - Project Obsidian - ThreatHunting 101 - Threat Hunting Techniques.pptx>)
 
 #### Video
 to be updated once available on YouTube.
@@ -51,7 +51,7 @@ to be updated once available on YouTube.
 What we can learn from case studies and how to get started with labs.
 
 #### Slides
--  [Cyber Threat Hunting 101: Case Studies and Labs](<Presentations\BTV - Project Obsidian - ThreatHunting 101 - Case Studies and Labs.pptx>)
+-  [Cyber Threat Hunting 101: Case Studies and Labs](<Presentations/BTV - Project Obsidian - ThreatHunting 101 - Case Studies and Labs.pptx>)
 
 #### Video
 to be updated once available on YouTube.
@@ -60,7 +60,7 @@ to be updated once available on YouTube.
 #### Description
 Where to go next to learn more
 #### Slides
-- [Cyber Threat Hunting 101: Conclusion and Next Steps](<Presentations\BTV - Project Obsidian - ThreatHunting 101 - Conclusion and Next Steps.pptx>)
+- [Cyber Threat Hunting 101: Conclusion and Next Steps](<Presentations/BTV - Project Obsidian - ThreatHunting 101 - Conclusion and Next Steps.pptx>)
 
 #### Video
 to be updated once available on YouTube.
@@ -72,7 +72,7 @@ to be updated once available on YouTube.
 Can we find activity within the corporate network that might be suspicious?
 
 #### Slides
-- [(n)Map Exploration: A Great TIme in Remote Destinations](<PresentationsProjectObsidian-CTH-KC-nMapExploration.ppt>)
+- [(n)Map Exploration: A Great TIme in Remote Destinations](<Presentations/ProjectObsidian-CTH-KC-nMapExploration.ppt>)
 
 #### Video
 to be updated once available on YouTube.
@@ -82,6 +82,6 @@ to be updated once available on YouTube.
 The recent Log4j vulnerability has been making headlines and causing significant harm to organizations that rely on Apache Log4j for logging. In this talk, we'll go beyond the headlines and provide a deep dive into threat hunting techniques and their application in detecting vulnerabilities like Log4j. We'll start with the basics of threat hunting and how it can help you stay ahead of emerging threats. From there, we'll explore the technical details of the Log4j vulnerability, including its nature, impact, and how it can be exploited. You'll learn how to analyze and respond to security threats through real-world examples of threat hunting in action. We'll provide hands-on labs that give you the experience you need to implement these techniques in your own organization. Whether you're a security analyst, engineer, or manager, this talk will provide valuable insights into threat hunting and enable you to stay ahead of emerging threats. Join us on this technical journey into the unknown with "Log4j: The Silent Menace Among Us.
 
 #### Slides
-- [Cyber Threat Hunting: Log4j - The Silent Menace Among Us](<Presentations\BTV-Project_Obsidian-_Log4j-_The_Silent_Menace_Among_Us.pptx>)
+- [Cyber Threat Hunting: Log4j - The Silent Menace Among Us](<Presentations/BTV-Project_Obsidian-_Log4j-_The_Silent_Menace_Among_Us.pptx>)
 #### Video
 to be updated once available on YouTube.
