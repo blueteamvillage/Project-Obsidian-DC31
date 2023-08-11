@@ -61,8 +61,8 @@ Username: `analyst` Password: `SilencePrintWestThus8`
 
 
 ### Offline Access
-For those interested in exploring data from Blue Team Village talks and workshops further, all logs collected during the execution of Project Obsidian are available for public download at https://media.blueteamvillage.org/DC31/Obsidian/
-
+For those interested in exploring data from Blue Team Village talks and workshops further, all logs collected during the execution of Project Obsidian are available for public download at https://media.blueteamvillage.org/DC31/
+](https://media.blueteamvillage.org/DC31/)
 Protected .zip files can be unlocked with the passphrase: `#DC31-BTVObsidian-Magnus-got-Tombstone#`
 
 Some of the files on this server contains files which might be harmful for your computer. These files are meant to be used as part of Blue Team Village activities. Blue Team Village doesn't take any responsiblity for harm caused by the files which are hosted on this site.
