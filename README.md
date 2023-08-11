@@ -55,7 +55,7 @@ Username: `analyst` Password: `SilencePrintWestThus8`
 
 * [Splunk](https://splunk.blueteamvillage.com)
 * [Graylog](https://graylog.blueteamvillage.com)
-* [Arkime](https://arkime.blueteamvillage.com)
+* [Arkime](https://arkime.blueteamvillage.com:8006)
 * [Velociraptor](https://velociraptor.blueteamvillage.com)
 * [SecurityOnion](https://securityonion.blueteamvillage.com)
     * SecurityOnion username NEEDS to be a an e-mail, so use `analyst@blueteamvillage.com`
