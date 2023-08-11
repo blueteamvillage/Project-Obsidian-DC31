@@ -1,5 +1,8 @@
 # DC31-obsidian-sec-eng
 
+## Github repo with infra-as-code
+[DC31-obsidian-sec-eng](https://github.com/blueteamvillage/DC31-obsidian-sec-eng)
+
 ## Network diagram
 ![network_diagram](../.img/network_diagram.png)
 
