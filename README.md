@@ -63,15 +63,8 @@ Username: `analyst` Password: `SilencePrintWestThus8`
 ### Offline Access
 For those interested in exploring data from Blue Team Village talks and workshops further:
 
-Velociraptor Forensics Collection Data can be downloaded here:
-https://github.com/blueteamvillage/Project-Obsidian-DC31/tree/master/Forensics/Velociraptor-Disk-Collection
-
-Memory Dumps can be downloaded here:
-https://github.com/blueteamvillage/Project-Obsidian-DC31/tree/master/Forensics/Memory-Collection
-
-All logs collected during the execution of Project Obsidian are available for public download at https://media.blueteamvillage.org/DC31/
-](https://media.blueteamvillage.org/DC31/)
-Protected .zip files can be unlocked with the passphrase: `#DC31-BTVObsidian-Magnus-got-Tombstone#`
+* Disk and Memory Forensics Collection Data can be downloaded from the Forensics Folder 
+* Logs collected during the execution of Project Obsidian can be downloaded from the Logs Folder 
 
 Some of the files on this server contains files which might be harmful for your computer. These files are meant to be used as part of Blue Team Village activities. Blue Team Village doesn't take any responsiblity for harm caused by the files which are hosted on this site.
 
